@@ -1,4 +1,4 @@
-## Hi ther# Hi, I'm Quantung! 👋
+# Hi, I'm Quantung! 👋
 
 I'm a passionate programmer working across multiple languages including **Java**, **C**, **C++**, **Python**, and **PHP**. I love building innovative projects and exploring new technologies.
 
@@ -7,7 +7,7 @@ I'm a passionate programmer working across multiple languages including **Java**
 [Check it out here!](https://quantung.org/os)
 
 ## 💻 Currently at
-I'm currently working at [Raincode](https://raincode.pl), a programming company dedicated to delivering top-notch software solutions.
+I'm currently working at [Raincode](https://raincode.pl), a programming company selling products made specialy for you
 
 ## 🛠️ Tech Stack
 - Java
@@ -15,9 +15,6 @@ I'm currently working at [Raincode](https://raincode.pl), a programming company 
 - C++
 - Python
 - PHP
-
-## 📫 How to reach me
-Feel free to connect or reach out!
 
 ---
 
