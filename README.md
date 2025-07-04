@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi ther# Hi, I'm Quantung! 👋
 
-<!--
-**QuantungDev/QuantungDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate programmer working across multiple languages including **Java**, **C**, **C++**, **Python**, and **PHP**. I love building innovative projects and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 My Favorite Project
+**Quant OS** — an exciting operating system project I'm working on.  
+[Check it out here!](https://quantung.org/os)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Currently at
+I'm currently working at [Raincode](https://raincode.pl), a programming company dedicated to delivering top-notch software solutions.
+
+## 🛠️ Tech Stack
+- Java
+- C
+- C++
+- Python
+- PHP
+
+## 📫 How to reach me
+Feel free to connect or reach out!
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=quantung&color=blue)
+
+---
+
+*Thanks for visiting my profile!*
