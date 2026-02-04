@@ -25,12 +25,13 @@ IDEs: Experience with:
 - @Microsoft - VS Code, Visual Studio
 - @Google+Jetbrains - Android Studio
 - Notepad++
+## Other skills
+- Linux/Unix: Basic command-line proficiency and shell navigation.
+- Clean Code: Focused on readability, documentation, and maintainable architecture.
 
-Linux/Unix: Basic command-line proficiency and shell navigation.
-Clean Code: Focused on readability, documentation, and maintainable architecture.
+
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=quantung&color=blue)
-
 ---
 
 *Thanks for visiting my profile!*
