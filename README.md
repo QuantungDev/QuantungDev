@@ -15,10 +15,10 @@ I'm a passionate programmer working across multiple programming languages. I lov
 - Lua (Roblox scripts)
 
 ## ⚙️ Core Competencies
-Database Management: Designing and querying with SQL and MySQL, etc.
-Version Control: Collaborative development using Git and GitHub.
-Debugging & Testing: Identifying bottlenecks and ensuring code reliability.
-Performant optimatizations: Making great fast code out of someone junk.
+- Database Management: Designing and querying with SQL and MySQL, etc.
+- Version Control: Collaborative development using Git and GitHub.
+- Debugging & Testing: Identifying bottlenecks and ensuring code reliability.
+- Performant optimatizations: Making great fast code out of someone junk.
 ## 🧰 Tools & Environment
 IDEs: Experience with:
 - @Jetbrains - IntelliJ IDEA, CLion, PyCharm
