@@ -18,7 +18,8 @@ I'm a passionate programmer working across multiple programming languages. I lov
 - Database Management: Designing and querying with SQL and MySQL, etc.
 - Version Control: Collaborative development using Git and GitHub.
 - Debugging & Testing: Identifying bottlenecks and ensuring code reliability.
-- Performant optimatizations: Making great fast code out of someone junk.
+- Optimatize: Repairing and improving code for maximum performance.
+- Project Management: Experience in management of medium sized projects.
 ## 🧰 Tools & Environment
 IDEs: Experience with:
 - @Jetbrains - IntelliJ IDEA, CLion, PyCharm
